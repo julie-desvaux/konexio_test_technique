@@ -16,4 +16,9 @@ Lance l'application en mode de développement
 Ouvrez [http://localhost:3000](http://localhost:3000) pour voir l'application dans votre navigateur web.
 
 
+## Visualiser le projet en ligne :
+
+- [Cliquez ici](https://julie-desvaux.github.io/konexio_test_technique/)
+
+
 ![Image](https://www.julie-desvaux.com/projets/konexio-test/capture_konexio.png)
