@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/konexio_test_technique/static/css/main.4a76bdaf.chunk.css",
-    "main.js": "/konexio_test_technique/static/js/main.3d6e0de7.chunk.js",
-    "main.js.map": "/konexio_test_technique/static/js/main.3d6e0de7.chunk.js.map",
+    "main.js": "/konexio_test_technique/static/js/main.023918c8.chunk.js",
+    "main.js.map": "/konexio_test_technique/static/js/main.023918c8.chunk.js.map",
     "runtime-main.js": "/konexio_test_technique/static/js/runtime-main.6e12bbf6.js",
     "runtime-main.js.map": "/konexio_test_technique/static/js/runtime-main.6e12bbf6.js.map",
     "static/css/2.0f7ccd32.chunk.css": "/konexio_test_technique/static/css/2.0f7ccd32.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.0f7ccd32.chunk.css",
     "static/js/2.4e245936.chunk.js",
     "static/css/main.4a76bdaf.chunk.css",
-    "static/js/main.3d6e0de7.chunk.js"
+    "static/js/main.023918c8.chunk.js"
   ]
 }
